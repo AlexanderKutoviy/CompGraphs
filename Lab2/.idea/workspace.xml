@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1ac982f-904d-453c-8b48-8330c93a3d2b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/jogl/objects/Rotation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jogl/listeners/InputListener.class" afterPath="$PROJECT_DIR$/target/classes/jogl/listeners/InputListener.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/jogl/listeners/JoglEventListener.class" afterPath="$PROJECT_DIR$/target/classes/jogl/listeners/JoglEventListener.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jogl/listeners/InputListener.java" afterPath="$PROJECT_DIR$/src/main/java/jogl/listeners/InputListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/jogl/listeners/JoglEventListener.java" afterPath="$PROJECT_DIR$/src/main/java/jogl/listeners/JoglEventListener.java" />
     </list>
     <ignored path="JOGL2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -726,6 +722,14 @@
       <option name="presentableId" value="Default" />
       <updated>1477831605100</updated>
     </task>
+    <task id="LOCAL-00001" summary="Draw sphere and rotate it">
+      <created>1477950643946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1477950643946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -794,6 +798,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Draw sphere and rotate it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Draw sphere and rotate it" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
